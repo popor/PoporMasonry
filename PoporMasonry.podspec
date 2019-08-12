@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'PoporMasonry'
   s.version          = '0.0.01'
-  s.summary          = 'A short description of PoporMasonry.'
+  s.summary          = '设置了masonry基础数据之后,可以让这几个数组view平分间隔.'
 
   s.homepage         = 'https://github.com/popor/PoporMasonry'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
