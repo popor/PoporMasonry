@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - PoporMasonry (0.0.01):
+    - Masonry
+
+DEPENDENCIES:
+  - PoporMasonry (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  PoporMasonry:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  PoporMasonry: 158a9af8b88b596707e6da0b1718a9dc20ddca36
+
+PODFILE CHECKSUM: 604437bf51455d9597deff83622409310e627b88
+
+COCOAPODS: 1.8.0.beta.1
